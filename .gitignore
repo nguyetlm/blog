@@ -1,3 +1,7 @@
+# hugo
+docs/*
+public/*
+
 # History files
 .Rhistory
 .Rapp.history
