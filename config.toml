@@ -1,0 +1,16 @@
+theme = "coyote"
+name = "Moontheshieep"
+description = "Blog Name"
+publishDir = "docs"
+# The home page of the theme, where the source can be found.
+homepage = "https://github.com/nguyetlm/blog"
+
+tags = ["blog"]
+
+# If the theme has a single author
+[author]
+  name = "nguyetlm"
+  homepage = "https://github.com/nguyetlm/blog"
+
+[outputs]
+  home = ['HTML', 'JSON']
