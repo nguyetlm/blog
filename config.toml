@@ -1,4 +1,5 @@
 theme = "coyote"
+themesDir = "themes"
 name = "Moontheshieep"
 description = "Blog Name"
 publishDir = "docs"
