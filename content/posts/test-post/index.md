@@ -1,6 +1,5 @@
 ---
 title: "Introduction!"
-date: today
 draft: false
 ---
 
